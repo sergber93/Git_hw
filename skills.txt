@@ -1,0 +1,1 @@
+Skills: JavaScript, TypeScript, WebdriverIO, Playwright,  CI/CD

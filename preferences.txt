@@ -1,0 +1,5 @@
+movie: "не смотрю фильмы"
+serial: "бандитский Петербург"
+food: "pasta"
+season: "spring"
+country: "USA"
