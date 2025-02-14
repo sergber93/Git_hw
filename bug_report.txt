@@ -1,1 +1,15 @@
-
+- ID  
+- Title  
+- Environment  
+- Priority  
+- Severity  
+- Steps to Reproduce  
+- Expected Result  
+- Actual Result  
+- Attachments  
+- Status  
+- Assignee  
+- Reporter  
+- Component  
+- Labels  
+- Reproducibility  
