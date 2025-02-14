@@ -1,0 +1,4 @@
+name: Berezhnoy Sergey Vladivirovich
+age: 31
+pets: 0
+salary: 2200$
