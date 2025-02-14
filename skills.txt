@@ -1,0 +1,8 @@
+JavaScript
+TypeScript
+Playwright
+WebdriverIO
+ESLint и Prettier
+REST API Test
+Cucumber
+CI/CD
